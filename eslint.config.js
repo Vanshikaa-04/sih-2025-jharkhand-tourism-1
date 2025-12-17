@@ -1,3 +1,6 @@
+// For more info, see https://github.com/storybookjs/eslint-plugin-storybook#configuration-flat-config-format
+import storybook from "eslint-plugin-storybook";
+
 // Import the core ESLint JS config helper
 import js from '@eslint/js'
 // Browser/global environment identifiers (used to populate `languageOptions.globals`)
